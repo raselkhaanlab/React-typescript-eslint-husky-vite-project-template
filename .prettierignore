@@ -1,0 +1,13 @@
+# Ignore artifacts:
+dist
+build
+coverage
+node_modules
+public
+.vscode
+logs
+# Ignore all HTML files:
+**/*.html
+package.json
+package-lock.json
+yarn.lock
